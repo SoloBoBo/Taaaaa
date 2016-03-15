@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+//打我的法尔冯师傅师傅是个粉色 
 @end
 
 @implementation AppDelegate
